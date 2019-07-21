@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Flo-Radar</string>
+    <string name="pick_a_date">Pick a Date..</string>
+    <string name="click_to_get_results">Click to get results!!</string>
+    <string name="flow_radar">Flow Radar</string>
+    <string name="click_to_get_day_results">Click to get day results</string>
+</resources>
